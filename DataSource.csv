@@ -1,4 +1,4 @@
-﻿ID,age,تکنیک جراحی (پدیکل),وزن بات رزکت شده پستان راست,SNN ,PMH,Smoker,عارضه مینور,عارضه ماژور,BMI,عارضه
+﻿ID,age,Pedicle,Breast Wieght,SNN ,PMH,Smoker,Minor,Major,BMI,Complication
 1,2,4,1,1,0,0,0,0,1,0
 2,2,1,2,1,1,1,1,0,1,4
 3,1,1,2,2,0,0,1,0,2,3
